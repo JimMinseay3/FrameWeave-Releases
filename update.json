@@ -1,0 +1,18 @@
+{
+  "schema": 2,
+  "channel": "stable",
+  "version": "0.5.0",
+  "tag": "v0.5.0",
+  "platform": "windows",
+  "installation": "windows-setup",
+  "asset": "FrameWeave-0.5.0-windows-x64-setup.exe",
+  "size": 368467914,
+  "sha256": "ccd9e79db11bf21a5042137f6cbf306db2811a62c94e24897b711ebbc887398d",
+  "windows_installer": {
+    "asset": "FrameWeave-0.5.0-windows-x64-setup.exe",
+    "size": 368467914,
+    "sha256": "ccd9e79db11bf21a5042137f6cbf306db2811a62c94e24897b711ebbc887398d",
+    "architecture": "x64",
+    "type": "inno-setup"
+  }
+}
