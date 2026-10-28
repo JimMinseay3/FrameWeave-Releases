@@ -1,0 +1,18 @@
+FrameWeave — Proprietary Software Notice
+
+Copyright (c) 2026 FrameWeave rights holders. All rights reserved.
+
+Public availability of an installer does not grant an open-source license to
+FrameWeave's proprietary business code. Permissions for use, modification or
+redistribution of proprietary portions are governed by a separate authorization
+from the applicable rights holder. This notice does not create a paid license,
+activation system, exclusivity, or a guarantee of suitability.
+
+Third-party software remains subject to its own original licenses. Nothing in
+this notice restricts rights granted under those licenses, including rights to
+source code, modification and redistribution where applicable. Refer to the
+bundled THIRD-PARTY-NOTICES.txt and dependency license files.
+
+This notice does not restrict rights independently granted by applicable law
+or the hosting platform's terms. Specific commercial license terms should be
+reviewed and agreed separately before commercial distribution.
