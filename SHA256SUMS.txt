@@ -1,1 +1,1 @@
-f480d406f1c51f0e5498d362977f9a379c97ae72eedbb9c193866a35722f3a74  FrameWeave-0.5.2-windows-x64-setup.exe
+3334d2aae039a7f0b67eef862558926a7bba16e5cdfe52c30b8523a52c6b3fea  FrameWeave-0.6.0-windows-x64-setup.exe
